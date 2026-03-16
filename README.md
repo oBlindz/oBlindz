@@ -1,3 +1,4 @@
+![banner](https://images.unsplash.com/photo-1441974231531-c6227db76b6e)
 # 🌿 Erick Bueno
 
 Backend developer focused on building **practical and reliable solutions**.
