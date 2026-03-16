@@ -1,16 +1,31 @@
-## Hi there 👋
+# Erick Bueno
 
-<!--
-**oBlindz/oBlindz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer focused on building practical solutions.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Backend
+- Node.js
+- PHP
+- REST APIs
+
+Tools
+- Git
+- Linux
+- Postman
+
+Databases
+- MongoDB
+
+## Projects
+
+Discord Bot with AI integration
+- Built using Node.js and Discord.js
+- Integrated Gemini AI to answer user questions
+- Automated community support
+
+## Currently learning
+
+- Backend architecture
+- TypeScript
+- API design
