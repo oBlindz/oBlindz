@@ -23,42 +23,51 @@ I enjoy simple systems, clean architecture and tools that solve real problems.
 - Git
 - Linux
 - Postman
+- Neovim
 
 ---
 
-## 🚀 Projects
+## 🧰 Projects
 
-### Discord Bot with AI integration
+### Neovim Configuration
 
-Bot developed to automate community support.
+Personal development environment used daily for about **1 year**.
 
-- Built with **Node.js** and **Discord.js**
-- Integrated **Gemini AI** to answer user questions
-- Automated repetitive support tasks for the community
+The goal of this configuration is to keep the editor **fast, minimal and efficient** for backend development.
+
+Features:
+
+- carefully selected plugins for performance
+- improved navigation and editing workflow
+- development-focused setup for programming
+- optimized keymaps for faster coding
+
+Repository: `nvim-config`
 
 ---
 
 ## 🌱 Experience
 
-Beyond programming, I work with **data, processes and operations**.
+### Startup Developer Experience
 
-Recently I created a **26-page operational manual** documenting:
+Worked for about **8 months with a small startup**, contributing to early-stage development decisions.
 
-- agricultural processes  
-- SAP transactions used in harvesting operations  
-- billing and operational workflows for the **2025/2026 crop**
+My main contributions included:
 
-The goal was simple:  
-make complex processes easier for people to understand and execute.
+- participating in **technology selection and architecture discussions**
+- helping plan the **initial code structure and development workflow**
+- contributing to **web development tasks**
+- building and experimenting with **Discord bots for automation and community tools**
+
+Working in a small team allowed me to learn how technical decisions impact
+the long-term sustainability of a project.
 
 ---
 
 ## 📚 Currently Learning
 
 - Backend architecture
-- TypeScript
-- API design
-- Systems that support real-world operations
+- PHP POO
 
 ---
 
