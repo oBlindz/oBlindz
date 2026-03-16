@@ -6,46 +6,6 @@ I enjoy simple systems, clean architecture and tools that solve real problems.
 
 ---
 
-## ⚙️ Tech Stack
-
-**Backend**
-
-- Node.js
-- PHP
-- REST APIs
-
-**Databases**
-
-- MongoDB
-
-**Tools**
-
-- Git
-- Linux
-- Postman
-- Neovim
-
----
-
-## 🧰 Projects
-
-### Neovim Configuration
-
-Personal development environment used daily for about **1 year**.
-
-The goal of this configuration is to keep the editor **fast, minimal and efficient** for backend development.
-
-Features:
-
-- carefully selected plugins for performance
-- improved navigation and editing workflow
-- development-focused setup for programming
-- optimized keymaps for faster coding
-
-Repository: `nvim-config`
-
----
-
 ## 🌱 Experience
 
 ### Startup Developer Experience
